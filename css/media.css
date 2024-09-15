@@ -1,0 +1,1396 @@
+@media (max-width: 1199px) {
+  .container {
+    padding-right: 50px;
+    padding-left: 50px;
+  }
+
+  .header-nav {
+    margin-right: 35px;
+  }
+
+  .podcasts-item {
+    padding: 40px 78px 32px 142px;
+    width: 48.3%;
+  }
+
+  .broadcast-left {
+    display: flex;
+    flex-direction: column;
+    margin-right: 41px;
+    position: relative;
+  }
+
+  .broadcast-left-block {
+    position: absolute;
+    bottom: 0;
+  }
+
+  .playlist-content {
+    gap: 30px;
+    flex-direction: column;
+  }
+
+  .playlist-album {
+    padding: 0;
+    flex-wrap: wrap;
+    gap: 30px;
+  }
+
+  .playlist-item {
+    padding: 35px 10px 36px 122px;
+    display: flex;
+    flex-direction: column;
+    width: 30.9%;
+    white-space: nowrap;
+  }
+
+  .playlist-right-block {
+    padding: 0;
+    background: rgb(255, 255, 255);
+  }
+
+  .playlist-item-img-1 {
+    background-image: url("/W-Wave-radio/img/playlist-item-img-1\(1024\).png");
+  }
+  .playlist-item-img-2 {
+    background-image: url("/W-Wave-radio/img/playlist-item-img-2\(1024\).png");
+  }
+  .playlist-item-img-3 {
+    background-image: url("/W-Wave-radio/img/playlist-item-img-3\(1024\).png");
+  }
+  .playlist-item-img-4 {
+    background-image: url("/W-Wave-radio/img/playlist-item-img-4\(1024\).png");
+  }
+  .playlist-item-img-5 {
+    background-image: url("/W-Wave-radio/img/playlist-item-img-5\(1024\).png");
+  }
+  .playlist-item-img-6 {
+    background-image: url("/W-Wave-radio/img/playlist-item-img-6\(1024\).png");
+  }
+  .playlist-item-img-7 {
+    background-image: url("/W-Wave-radio/img/playlist-item-img-7\(1024\).png");
+  }
+  .playlist-item-img-8 {
+    background-image: url("/W-Wave-radio/img/playlist-item-img-8\(1024\).png");
+  }
+  .playlist-item-img-9 {
+    background-image: url("/W-Wave-radio/img/playlist-item-img-9\(1024\).png");
+  }
+  .playlist-item-img-10 {
+    background-image: url("/W-Wave-radio/img/playlist-item-img-10\(1024\).png");
+  }
+  .playlist-item-img-11 {
+    background-image: url("/W-Wave-radio/img/playlist-item-img-11\(1024\).png");
+  }
+  .playlist-item-img-12 {
+    background-image: url("/W-Wave-radio/img/playlist-item-img-12\(1024\).png");
+  }
+
+  .about-right-img {
+    display: none;
+  }
+}
+
+@media (max-width: 1024px) {
+
+  /* Header */
+
+  .header-content {
+    gap: 28px;
+    flex-wrap: wrap;
+    padding: 28px 0;
+  }
+
+  .container {
+    padding-right: 100px;
+    padding-left: 100px;
+  }
+
+  .header-img-link {
+    width: 112px;
+  }
+
+  .header-nav {
+    padding: 20px 0;
+    border-top: 2px solid rgb(230, 232, 236);
+    border-bottom: 2px solid rgb(230, 232, 236);
+    order: 2;
+    display: flex;
+    overflow: auto;
+    flex-wrap: wrap;
+  }
+
+  .header-nav {
+    margin-right: 0;
+  }
+
+  .header-item {
+    margin-right: 105px;
+  }
+
+  /* Hero */
+
+  .hero {
+    padding-bottom: 86px;
+    padding-top: 0;
+  }
+
+  .hero-content {
+    background-position-x: 666px;
+    background-position-y: 52px;
+    padding-top: 63px;
+    padding-bottom: 0;
+    background-image: url("/W-Wave-radio/img/microphone-1024.jpg");
+  }
+
+  .hero-right {
+    padding-top: 45px;
+    max-width: 256px;
+  }
+
+  .hero-left {
+    max-width: 539px;
+  }
+
+  .hero-text {
+    margin-bottom: 18px;
+  }
+
+  /* podcasts */
+
+  .podcasts-item {
+    padding: 36px 80px 36px 142px;
+  }
+
+  .podcasts-list {
+    gap: 28px;
+    row-gap: 30px;
+  }
+
+  /* broadcast */
+
+  .broadcast {
+    padding-bottom: 98px;
+  }
+
+  .broadcast-left {
+    margin-right: 56px;
+  }
+
+  /* quests-strong */
+
+  .quests-strong-text {
+    max-width: 536px;
+  }
+
+  /* playlist */
+
+  .playlist-right {
+    padding-top: 0;
+  }
+
+  .playlist {
+    padding-bottom: 96px;
+  }
+
+  .playlist-left .playlist-text {
+    width: 100%;
+  }
+
+  .playlist-album {
+    gap: 29px;
+    row-gap: 26px;
+  }
+
+  .playlist-item {
+    padding: 38px 10px 34px 122px;
+  }
+
+  /* adv */
+
+  .adv {
+    padding-top: 96px;
+    padding-bottom: 94px;
+  }
+
+  .adv-right {
+    max-width: 396px;
+  }
+
+  /* .adv-text-1 br {
+  display: none;
+  } */
+
+  .adv-left {
+    padding-top: 123px;
+  }
+
+  .adv-block-right {
+    margin-bottom: 20px;
+  }
+
+  .br-3 {
+    display: none;
+  }
+
+  .img-adv-radio {
+    height: 349px;
+  }
+
+  .adv-new {
+    width: 100px;
+    height: 100px;
+    top: 117px;
+  }
+  .br-1 {
+    display: block;
+  }
+
+  /* about */
+
+  .about .title-h2-white {
+    margin-bottom: 13px;
+  }
+
+  .about-left {
+    max-width: 539px;
+  }
+
+  .about-top-text br{
+    display: block;
+  }
+
+  .about-top-text {
+    line-height: 166%;
+  }
+
+  .about-right {
+    padding-top: 48px;
+  }
+
+  .about-top {
+    margin-bottom: 24px;
+  }
+
+  .about-right-img-dawn {
+    height: 255px;
+  }
+
+  .about-item-img-1 {
+    background-image: url("/W-Wave-radio/img/about-item-img-1\(1024\).jpg");
+  }
+  .about-item-img-2 {
+    background-image: url("/W-Wave-radio/img/about-item-img-2\(1024\).jpg");
+  }
+  .about-item-img-3 {
+    background-image: url("/W-Wave-radio/img/about-item-img-3\(1024\).jpg");
+  }
+  .about-item-img-4 {
+    background-image: url("/W-Wave-radio/img/about-item-img-4\(1024\).jpg");
+  }
+
+  .about-list {
+    flex-wrap: wrap;
+  }
+
+  .about-item {
+    width: 48%;
+  }
+
+  .input-text-info {
+    width: 100%;
+  }
+
+  .input-text-name {
+    width: 50%;
+  }
+
+  .about-input-email {
+    width: 50%;
+  }
+}
+
+@media (max-width: 1023px) {
+  .broadcast-invisible-2 {
+    display: block;
+  }
+
+  .podcasts-item {
+    width: 100%;
+  }
+
+  .broadcast-list {
+    gap: 0;
+    row-gap: 29px;
+  }
+
+  .broadcast-item {
+    margin-right: auto;
+    width: 31%;
+  }
+
+  .broadcast-item:nth-child(3n) {
+    margin-right: 0;
+  }
+
+  .guests-item-text {
+    max-width: 100%;
+  }
+
+  .playlist-item {
+    width: 47%;
+  }
+
+  .adv-left {
+    justify-content: center;
+  }
+
+  .adv-right {
+    max-width: 50%;
+  }
+
+  .about-left {
+    max-width: 100%;
+  }
+
+
+  .about-right {
+    display: none;
+  }
+
+  .broadcast-invisible-1 {
+    display: none;
+  }
+
+  .broadcast-top .title-h2{
+    margin-bottom: 126px;
+  }
+
+  .broadcast-content {
+    flex-direction: column;
+  }
+
+  .title-h2 {
+    margin-bottom: 31px;
+  }
+
+  .broadcast-right {
+    padding-top: 0;
+    padding-bottom: 60px;
+    border-bottom: 1px solid rgb(230, 232, 236);
+  }
+
+  .broadcast-left-block {
+    position: relative;
+  }
+
+  .broadcast-micro {
+    margin-bottom: 0;
+    width: 70px;
+    height: 96px;
+  }
+
+  .broadcast-left-block {
+    padding-top: 33px;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+  }
+
+  .broadcast-btn-block {
+    flex-direction: column;
+  }
+
+  .broadcast-btn {
+    margin-bottom: 8px;
+  }
+
+  .broadcast {
+    padding-bottom: 33px;
+  }
+
+  .quests-strong-text {
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 991px) {
+  .container {
+    padding-right: 116px;
+    padding-left: 113px;
+  }
+
+  .header-item {
+    margin-right: 110px;
+  }
+
+  .header-link {
+    font-size: 16px;
+  }
+
+  .hero-img {
+    display: none;
+  }
+
+  .hero-content {
+    background-image: none;
+  }
+
+  .hero-left {
+    max-width: 100%;
+  }
+
+  .header-nav {
+    order: 2;
+  }
+
+  .header-search {
+    display: inline;
+  }
+
+  /* podcasts */
+  .podcasts-item {
+    padding: 35px 222px 37px 142px;
+  }
+
+  /* broadcast-invisible */
+
+  .broadcast-invisible-1 {
+    display: none;
+  }
+
+  /* .broadcast-item:nth-child(3n) {
+  margin-right: 0;
+  } */
+
+  .broadcast-item {
+    margin: 0;
+    width: 255px;
+  }
+
+  .broadcast-list {
+    gap: 29px;
+    justify-content: center;
+  }
+
+  /* guests */
+
+  .guests-item {
+    flex-direction: column;
+  }
+
+  .guests-item-text {
+    margin-bottom: 30px;
+    max-width: 100%;
+  }
+
+  .guests-btn {
+    position: relative;
+  }
+
+  .guests-list {
+    gap: 51px;
+  }
+
+  /* playlist */
+
+  .playlist {
+    padding-bottom: 107px;
+  }
+
+  /* adv */
+
+  .adv {
+    padding-top: 54px;
+  }
+
+  .adv-h2 br {
+    display: block;
+  }
+
+  .adv-right-svg {
+    width: 100%; height: 100%;
+  }
+
+  .adv-content {
+    flex-direction: column;
+    gap: 52px;
+  }
+
+  .img-adv-radio {
+    height: 100%;
+  }
+
+  .adv-new {
+    width: 160px;
+    height: 160px;
+    top: 0;
+  }
+
+  .adv-left {
+    padding-top: 0;
+  }
+
+  .adv-right {
+    max-width: 100%;
+  }
+
+  .br-1 {
+    display: none;
+  }
+
+  .br-2 {
+    display: block;
+  }
+
+  .br-4 {
+    display: block;
+  }
+
+  .adv-block-right {
+    margin-bottom: 17px;
+
+    background-position: bottom left;
+  }
+
+  /* about */
+
+  .about-top {
+    flex-direction: column;
+  }
+
+  .about-right-img-dawn {
+    height: 112px;
+  }
+
+  .about-right {
+    padding-top: 0;
+    justify-content: flex-end;
+    background-image: url("/W-Wave-radio/img/768-spiral.png");
+    background-repeat: no-repeat;
+    background-position: center left;
+    background-position-x: -114px;
+  }
+
+  .about-top {
+    gap: 21px;
+    margin-bottom: 28px;
+  }
+
+
+  .about-item-img-1 {
+    background-image: url("/W-Wave-radio/img/about-item-img-1.jpg");
+  }
+  .about-item-img-2 {
+    background-image: url("/W-Wave-radio/img/about-item-img-2.jpg");
+  }
+  .about-item-img-3 {
+    background-image: url("/W-Wave-radio/img/about-item-img-3.jpg");
+  }
+  .about-item-img-4 {
+    background-image: url("/W-Wave-radio/img/about-item-img-4.jpg");
+  }
+
+  .about-list {
+    gap: 29px;
+    row-gap: 30px;
+    justify-content: center;
+
+  }
+
+  .about-item {
+    width: 47.2%;
+  }
+
+  /* about */
+
+  .input-text-info {
+    width: 100%;
+  }
+
+  .about-input-bottom {
+    flex-direction: column;
+  }
+
+  .input-text-name {
+    width: 100%;
+  }
+
+  .about-input-email {
+    width: 100%;
+  }
+
+  /* footer */
+
+  .footer-content {
+    flex-direction: column;
+    align-items: center;
+    gap: 75px;
+  }
+
+  .footer-svg-ul {
+    gap: 11px;
+    justify-content: space-around;
+  }
+
+  .footer-svg-li svg{
+    width: 36px;
+    height: 36px;
+  }
+
+  .footer-list {
+    max-width: 100%;
+    row-gap: 27px;
+    justify-content: space-between;
+  }
+
+  .footer-item {
+    width: 65px;
+  }
+
+  .footer-content {
+    padding-bottom: 76px;
+  }
+}
+
+@media (max-width: 768px) {
+  .header-nav {
+    order: 2;
+    width: 100%;
+  }
+
+  .header-item {
+    margin-right: 48.5px;
+  }
+
+  .header-content {
+    gap: 22px;
+  }
+
+  .broadcast-top .title-h2 {
+    margin-bottom: 121px;
+  }
+
+  .broadcast-right {
+    padding-top: 0;
+  }
+
+  .broadcast-list {
+    gap: 29px;
+    justify-content: flex-start;
+  }
+
+  .guests-item-text {
+    max-width: 361px;
+  }
+
+  .playlist-album {
+    gap: 31px;
+    row-gap: 26px;
+  }
+
+  .about-right {
+    display: inline-flex;
+  }
+
+  .about-top {
+    margin-bottom: 32px;
+  }
+
+  .playlist-item {
+    padding: 38px 10px 36px 122px;
+  }
+}
+
+@media (max-width: 767px) {
+  .broadcast-item {
+    padding: 0;
+    width: 100%;
+  }
+
+  .broadcast-block {
+    padding: 20px 16px 14px 16px;
+  }
+
+  .broadcast-img-block {
+    height: 148px;
+    background-size: cover;
+  }
+
+  .title-h1 {
+    padding-top: 0;
+    font-size: 49px;
+    font-weight: 400;
+    margin-bottom: 5px;
+  }
+
+  .playlist-item {
+    width: 100%;
+  }
+
+  .about-item {
+    width: 46%;
+  }
+
+  .about-right {
+    display: none;
+  }
+}
+
+@media (max-width: 629px) {
+
+  /* Hero */
+
+  .hero {
+    padding-bottom: 40px;
+  }
+
+  .hero-content {
+    padding-top: 40px;
+  }
+
+  .hero-text {
+    margin-bottom: 20px;
+    font-size: 14px;
+    font-weight: 400;
+  }
+
+  .hero-btn {
+    font-size: 16px;
+    padding: 16px 45px 16px 46px;
+  }
+
+  .title-h1 {
+    font-size: 34px;
+  }
+
+
+  /* Podcasts */
+
+  .podcasts {
+    padding-bottom: 28px;
+    padding-top: 40px;
+  }
+
+  .title-h2 {
+    margin-bottom: 19px;
+    font-size: 24px;
+    font-weight: 400;
+  }
+
+
+  .podcasts-img {
+    background-image: none;
+
+  }
+
+  .podcasts-block-img-1 {
+    background-image: url("/W-Wave-radio/img/podcasts-img-1\(320\).jpg");
+    height: 72px;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .podcasts-block-img-2 {
+    background-image: url("/W-Wave-radio/img/podcasts-img-2\(320\).jpg");
+    height: 72px;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .podcasts-block-img-3 {
+    background-image: url("/W-Wave-radio/img/podcasts-img-3\(320\).jpg");
+    height: 72px;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .podcasts-block-img-4 {
+    background-image: url("/W-Wave-radio/img/podcasts-img-4\(320\).jpg");
+    height: 72px;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .podcasts-block-img-5 {
+    background-image: url("/W-Wave-radio/img/podcasts-img-5\(320\).jpg");
+    height: 72px;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .podcasts-block-img-6 {
+    background-image: url("/W-Wave-radio/img/podcasts-img-6\(320\).jpg");
+    height: 72px;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .podcasts-block-img-7 {
+    background-image: url("/W-Wave-radio/img/podcasts-img-7\(320\).jpg");
+    height: 72px;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .podcasts-block-img-8 {
+    background-image: url("/W-Wave-radio/img/podcasts-img-8\(320\).jpg");
+    height: 72px;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .podcasts-block {
+    padding: 30px 64px 30px 16px;
+  }
+
+  .podcasts-item {
+    padding: 0;
+  }
+
+  .title-h3 {
+    font-size: 16px;
+  }
+
+  .podcasts-text {
+    font-size: 12px;
+  }
+
+  .pod-data {
+    bottom: auto;
+    top: -1px;
+  }
+
+  .pod-data-2 {
+    bottom: auto;
+    top: -1px;
+  }
+  .pod-data-3 {
+    bottom: auto;
+    top: -1px;
+  }
+  .pod-data-4 {
+    bottom: auto;
+    top: -1px;
+  }
+  .pod-data-5 {
+    bottom: auto;
+    top: -1px;
+  }
+  .pod-data-6 {
+    bottom: auto;
+    top: -1px;
+  }
+  .pod-data-7 {
+    bottom: auto;
+    top: -4px;
+  }
+  .pod-data-8 {
+    bottom: auto;
+    top: -1px;
+  }
+
+  /* Broadcast */
+
+  .broadcast {
+    padding-top: 54px;
+  }
+
+  .broadcast-top .title-h2 {
+    margin-bottom: 30px;
+  }
+
+  /* guests */
+
+  .title-h2-white {
+    font-size: 24px;
+    font-weight: 400;
+  }
+
+  .quests-strong {
+    font-size: 14px;
+    font-weight: 700;
+  }
+
+  .quests-strong-text {
+    padding-top: 0;
+    margin-bottom: 25px;
+    font-size: 14px;
+    font-weight: 400;
+  }
+
+  .guests-item {
+    gap: 12px;
+  }
+
+  .guests-btn {
+    width: 150px;
+    height: 35px;
+  }
+
+  .guests-list {
+    gap: 25px;
+  }
+
+  .guests {
+    padding-top: 40px;
+    padding-bottom: 31px;
+  }
+
+  /* playlist */
+
+  .playlist-left .title-h2 {
+    margin-bottom: 11px;
+  }
+
+  .playlist-text {
+    margin-bottom: 8px;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+  }
+
+  .playlist-left .playlist-text {
+    width: 88%;
+    gap: 3px;
+  }
+
+  .playlist-right-block .title-h3 {
+    font-size: 12px;
+    font-weight: 500;
+  }
+
+  .playlist-right-block .playlist-text {
+    font-size: 9px;
+    font-weight: 400;
+  }
+
+  .playlist {
+    padding-top: 40px;
+    padding-bottom: 28px;
+  }
+
+  /* adv */
+
+  .adv-new {
+    width: 62px;
+    height: 62px;
+  }
+
+  .adv {
+    padding-top: 39px;
+    padding-bottom: 33px;
+  }
+
+  .adv-h2 {
+    font-size: 24px;
+    font-weight: 400;
+    margin-bottom: 7px;
+  }
+
+  .adv-h2 br {
+    display: none;
+  }
+
+  .adv-content {
+    gap: 38px;
+  }
+
+  .adv-block-right {
+    margin-bottom: 15px;
+  }
+
+  .adv-text-1 {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 159%;
+  }
+
+  .adv-text-2 {
+    margin-bottom:11px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 155%;
+  }
+
+  .abv-price {
+    margin-bottom: 17px;
+    font-size: 24px;
+    font-weight: 500;
+  }
+
+  .abv-btn {
+    padding: 15px 14px 12px 16px;
+    font-size: 16px;
+    font-weight: 500;
+    white-space: nowrap;
+  }
+
+  /* about */
+
+  .about .title-h2-white {
+    margin-bottom: 11px;
+  }
+
+  .about-top-span {
+    font-size: 14px;
+    font-weight: 700;
+  }
+
+  .about-top-text {
+    line-height: 156%;
+    font-size: 14px;
+    font-weight: 400;
+  }
+
+  .about-right {
+    display: none;
+  }
+
+  .about-top {
+    margin-bottom: 30px;
+  }
+
+  .about-item-img-1 {
+    background-image: url("/W-Wave-radio/img/about-item-img-1\(320\).jpg");
+  }
+  .about-item-img-2 {
+    background-image: url("/W-Wave-radio/img/about-item-img-2\(320\).jpg");
+  }
+  .about-item-img-3 {
+    background-image: url("/W-Wave-radio/img/about-item-img-3\(320\).jpg");
+  }
+  .about-item-img-4 {
+    background-image: url("/W-Wave-radio/img/about-item-img-4\(320\).jpg");
+  }
+
+  .about-item {
+    width: 44%;
+  }
+
+  .about-item picture {
+    margin-bottom: 9px;
+  }
+
+  .about-list {
+    margin-bottom: 27px;
+  }
+
+  .title-about-h3 {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 18px;
+  }
+
+  .about-bottom-text {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+  }
+
+  .title-about-h3 br {
+    display: block;
+  }
+
+  .input-text-info {
+    padding: 17px 10px 98px 24px;
+    border-radius: 20px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16px;
+  }
+
+  .input-text-name {
+    padding: 17px 10px 17px 24px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16px;
+  }
+
+  .about-input-email {
+    padding: 17px 10px 17px 24px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16px;
+  }
+
+  .btn-about {
+    padding: 15px 65px 15px 45px;
+    margin-bottom: 12px;
+    max-width: 172px;
+    font-size: 16px;
+    font-weight: 500;
+  }
+
+  .about-checkbox-text {
+    font-size: 9px;
+    font-weight: 500;
+  }
+
+  .about {
+    padding-top: 38px;
+    padding-bottom: 21px;
+  }
+
+  /* footer */
+
+  .footer {
+    padding-top: 39px;
+  }
+
+  .link-footer-text {
+    font-size: 12px;
+    font-weight: 400;
+  }
+
+  .footer-list {
+    display: none;
+  }
+
+  .footer-list-2 {
+    display: flex;
+    max-width: 81%;
+    row-gap: 17px;
+    column-gap: 72px;
+  }
+
+  .footer-content {
+    padding-bottom: 37px;
+    gap: 26px;
+  }
+
+  .footer-bottom-text {
+    padding: 30px 0 10px;
+    font-size: 12px;
+    font-weight: 400;
+  }
+
+  .footer-list-block-2 {
+    background: rgb(18, 23, 35);
+    padding: 27px 32px 29px 32px;
+  }
+
+  .footer-svg-bottom {
+    background-position-y: 9px;
+    background-position-x: -5px;
+  }
+}
+
+@media (max-width: 480px) {
+  .container {
+    padding: 15px 32px 22px 32px;
+  }
+
+  .header-content {
+    gap: 10px;
+  }
+
+  .header-img-link {
+    width: 87px;
+  }
+
+  .header-item {
+    margin-right: 24px;
+  }
+
+  .title-h1 {
+    font-size: 32px;
+  }
+
+  .broadcast-img-1 {
+    background-image: url("/W-Wave-radio/img/broadcast-img-1\(320\).jpg");
+  }
+
+  .broadcast-img-2 {
+    background-image: url("/W-Wave-radio/img/broadcast-img-2\(320\).jpg");
+  }
+
+  .broadcast-img-3 {
+    background-image: url("/W-Wave-radio/img/broadcast-img-3\(320\).jpg");
+  }
+
+  .broadcast-img-4 {
+    background-image: url("/W-Wave-radio/img/broadcast-img-4\(320\).jpg");
+  }
+
+  .broadcast-img-5 {
+    background-image: url("/W-Wave-radio/img/broadcast-img-5\(320\).jpg");
+  }
+
+  .broadcast-img-6 {
+    background-image: url("/W-Wave-radio/img/broadcast-img-6\(320\).jpg");
+  }
+
+  .broadcast-img-block {
+    height: 0;
+  }
+
+  .broadcast-block {
+    padding: 60px 12px 5px 10px;
+  }
+
+  .broadcast-item {
+    width: 113px;
+  }
+
+  .broadcast-block .title-h3 {
+    font-size: 12px;
+    font-weight: 500;
+    padding-top: 0;
+    margin-bottom: 2px;
+  }
+
+  .broadcast-block .title-h3-wrap {
+    white-space: wrap;
+  }
+
+  .broadcast-text {
+    font-size: 9px;
+    font-weight: 400;
+  }
+
+  .broadcast-btn-right {
+    font-size: 12px;
+    font-weight: 400;
+  }
+
+  /* .broadcast-btn-right {
+  background-image: url(/W-Wave-radio/img/broadcast-arrow\(320\).svg);
+  } */
+
+  .broadcast-list {
+    gap: 30px;
+    row-gap: 31px;
+    justify-content: center;
+  }
+
+  .broadcast-right {
+    padding-bottom: 31px;
+  }
+
+  .broadcast-top .title-h2 {
+    margin-bottom: 28px;
+  }
+
+  .broadcast-btn-right-1 {
+    margin-bottom: 11px;
+  }
+
+  .broadcast-btn-right-2 {
+    margin-bottom: 26px;
+  }
+
+  .broadcast-btn-right-3 {
+    margin-bottom: 35px;
+  }
+
+  .broadcast-btn-block {
+    flex-direction: column-reverse;
+  }
+
+  .broadcast-left-block {
+    gap: 13px;
+    padding-top: 31px;
+  }
+
+  .broadcast-text-left {
+    width: auto;
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 7px;
+  }
+
+  .broadcast-micro {
+    width: 77px;
+    height: 105px;
+  }
+
+  .broadcast-btn {
+    margin-bottom: 0;
+    width: 110px;
+    height: 35px;
+  }
+
+  .broadcast {
+    padding-top: 43px;
+    padding-bottom: 32px;
+  }
+
+  .podcasts-time {
+    margin-bottom: 5px;
+  }
+
+  .podcasts-block .title-h3 {
+    margin-bottom: 3px;
+  }
+
+  .podcasts-list {
+    row-gap: 29px;
+  }
+
+  .quests-strong {
+    margin-bottom: 2px;
+  }
+
+  .adv-block-right {
+    margin-bottom: 18px;
+  }
+
+  .playlist-album {
+    gap: 29px;
+    row-gap: 24px;
+    justify-content: center;
+  }
+
+  .playlist-item {
+    width: 113px;
+    padding: 123px 10px 10px 10px;
+  }
+
+  .adv-block-right {
+    margin-bottom: 13px;
+  }
+
+  .about-top {
+    margin-bottom: 33px;
+  }
+
+  .about-item {
+    width: 44%;
+  }
+
+  .about-list {
+    justify-content: center;
+    gap: 30px;
+    row-gap: 28px;
+  }
+
+  .adv-block-right {
+    padding-bottom: 13px;
+  }
+
+
+  .header-nav {
+    padding: 17px 0;
+  }
+
+  .hero {
+    padding-bottom: 20px;
+  }
+
+  .podcasts {
+    padding-top: 38px;
+  }
+
+  .title-h2 {
+    margin-bottom: 19px;
+  }
+
+  .adv-block-right {
+    margin-bottom: 16px;
+  }
+
+  .about-top-span {
+    margin-bottom: 6px;
+  }
+}
